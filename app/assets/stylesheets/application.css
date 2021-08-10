@@ -1,0 +1,185 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: block;
+  margin: 33px;
+  font-size: 13px;
+  color: black;
+}
+
+.top {
+  width: 90%;
+  margin: 17.42px 0px;
+  font-size: 26px;
+}
+
+p {
+  font-size: 13px;
+  margin: 33px;
+}
+
+.start {
+  font-size: 13px;
+  margin: 33px;
+}
+
+h1 {
+  display: block;
+  font-size: 2em;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+table {
+  display: table;
+  border-collapse: separate;
+  box-sizing: border-box;
+  text-indent: initial;
+  border-spacing: 2px;
+  border-color: grey;
+}
+
+thead {
+  display: table-header-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+
+tr {
+  display: table-row;
+  border-color: inherit;
+}
+
+th {
+  padding-bottom: 5px;
+  display: table-cell;
+  text-align: center;
+}
+
+
+
+h2 {
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+form {
+  display: block;
+  margin-top: 0em;
+}
+
+div {
+  display: block;
+}
+
+td {
+  padding-bottom: 7px;
+  padding-left: 5px;
+  padding-right: 5px;
+  display: table-cell;
+  vertical-align: inherit;
+}
+
+tbody {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+
+p, ol, ul, td {
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  margin: 33px;
+}
+
+.Title {
+  margin: 33px;
+}
+
+.Body {
+  margin: 33px;
+}
+
+.edit {
+  margin: 17.42px 0px;
+}
+
+div {
+  display: block;
+}
+
+.field {
+  margin-bottom: 10px;
+}
+
+label {
+  display: block;
+  cursor: default;
+}
+
+.action {
+  margin-bottom: 10px;
+}
+
+#notice {
+  color: green;
+}
+
+#error_explanation {
+  width: 450px;
+  border: 2px solid red;
+  padding: 7px;
+  padding-bottom: 0;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+}
+
+#error_explanation h2 {
+  text-align: left;
+  font-weight: bold;
+  padding: 5px 5px 5px 15px;
+  font-size: 12px;
+  margin: -7px;
+  margin-bottom: 0;
+  background-color: #c00;
+  color: #fff;
+}
+
+li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+
+.error {
+  font-size: 12px;
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+.error_explanation ul {
+    font-size: 12px;
+    list-style: square;
+}
+
+.error_explanation li {
+    font-size: 12px;
+    list-style: square;
+}
